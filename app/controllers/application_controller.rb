@@ -19,5 +19,5 @@ class ApplicationController < Sinatra::Base
     end
     erb :error
   end
-  
+
 end
